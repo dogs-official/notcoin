@@ -1,7 +1,5 @@
 {
     "name": "Notcoin",
     "url": "https://badpa132.github.io/notcoin/",
-    "icons": ["https://badpa132.github.io/notcoin/icon.png"],
-    "terms_of_service_url": "https://badpa132.github.io/notcoin/terms",
-    "privacy_policy_url": "https://badpa132.github.io/notcoin/privacy"
+    "icons": ["https://badpa132.github.io/notcoin/icon.png"]
 }
